@@ -1,0 +1,4 @@
+The content of file one: The node:fs module enables interacting with the file system in a way modeled on standard POSIX functions. 
+The content of file two: The Node.js file system module allows you to work with the file system on your computer.The content of file one: The node:fs module enables interacting with the file system in a way modeled on standard POSIX functions.,
+The content of file two: The Node.js file system module allows you to work with the file system on your computer.The content of file one: The node:fs module enables interacting with the file system in a way modeled on standard POSIX functions.,
+The content of file two: The Node.js file system module allows you to work with the file system on your computer.
